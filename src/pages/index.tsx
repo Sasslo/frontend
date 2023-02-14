@@ -29,8 +29,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>UnityX</title>
-        <meta name="description" content="self project" />
+        <title>SAASLO</title>
+        <meta name="description" content="saas management platform" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
