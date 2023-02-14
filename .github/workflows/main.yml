@@ -4,7 +4,7 @@ name: Deploy MAIN branch
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   build:
