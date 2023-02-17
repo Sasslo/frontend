@@ -111,7 +111,7 @@ const LoginWrapper: NextPage<{ doesExist?: boolean }> = ({ doesExist }) => {
           </Box>
           <Box>
             <Text>
-              Don't have an account? <Text>Sign up</Text>
+              Don&apos;t have an account? <Text>Sign up</Text>
             </Text>
           </Box>
         </Box>
